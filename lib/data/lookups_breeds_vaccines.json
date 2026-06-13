@@ -1,0 +1,32 @@
+{
+  "breeds": [
+  { "id": "thai", "name_th": "แมวไทย", "name_en": "Thai" },
+  { "id": "siam", "name_th": "วิเชียรมาศ (สยาม)", "name_en": "Siamese" },
+  { "id": "pers", "name_th": "เปอร์เซีย", "name_en": "Persian" },
+  { "id": "main", "name_th": "เมนคูน", "name_en": "Maine Coon" },
+  { "id": "bsho", "name_th": "บริติช ชอร์ตแฮร์", "name_en": "British Shorthair" },
+  { "id": "sfol", "name_th": "สก็อตติช โฟลด์", "name_en": "Scottish Fold" },
+  { "id": "beng", "name_th": "เบงกอล", "name_en": "Bengal" },
+  { "id": "ragd", "name_th": "แร็กดอลล์", "name_en": "Ragdoll" },
+  { "id": "asho", "name_th": "อเมริกัน ชอร์ตแฮร์", "name_en": "American Shorthair" },
+  { "id": "sphy", "name_th": "สฟิงซ์", "name_en": "Sphynx" },
+  { "id": "nfor", "name_th": "นอร์เวย์เจียน ฟอเรสต์", "name_en": "Norwegian Forest" },
+  { "id": "rblu", "name_th": "รัสเซียนบลู", "name_en": "Russian Blue" },
+  { "id": "abys", "name_th": "อะบิสซิเนียน", "name_en": "Abyssinian" },
+  { "id": "birm", "name_th": "เบอร์แมน", "name_en": "Birman" },
+  { "id": "orie", "name_th": "ออเรียนทัล", "name_en": "Oriental" },
+  { "id": "exos", "name_th": "เอ็กโซติก ชอร์ตแฮร์", "name_en": "Exotic Shorthair" },
+  { "id": "sava", "name_th": "ซาวันนา", "name_en": "Savannah" },
+  { "id": "munc", "name_th": "มันช์กิ้น", "name_en": "Munchkin" },
+  { "id": "dsh",  "name_th": "ดอเมสติก ชอร์ตแฮร์", "name_en": "Domestic Short Hair" },
+  { "id": "dlh",  "name_th": "ดอเมสติก ลองแฮร์", "name_en": "Domestic Long Hair" },
+  { "id": "other","name_th": "อื่นๆ", "name_en": "Other" }
+],
+  "vaccines": [
+    { "code": "FVRCP", "name": "FVRCP (ไข้หวัดรวม)", "desc": "Core vaccine" },
+    { "code": "RABIES", "name": "พิษสุนัขบ้า", "desc": "ตามกฎหมาย" },
+    { "code": "FeLV", "name": "ไวรัสลิวคีเมียแมว (FeLV)", "desc": "" },
+    { "code": "FCV", "name": "ไวรัสคาลิซิ (ส่วนหนึ่งของ FVRCP)", "desc": "" },
+    { "code": "FPV", "name": "ลำไส้อักเสบติดต่อ (Panleukopenia)", "desc": "" }
+  ]
+}

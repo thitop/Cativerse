@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "233377891149",
+    "project_id": "cativerseproject",
+    "storage_bucket": "cativerseproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233377891149:android:80711cd8c035b71b6eed04",
+        "android_client_info": {
+          "package_name": "com.example.cativerse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrhxqvShQ76-SUDz8I48lslZz9hd238YU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
