@@ -2,7 +2,7 @@ Cativerse 🐾
 
 Cativerse เป็นแอปพลิเคชันบนสมาร์ทโฟนที่พัฒนาด้วย Flutter ออกแบบมาเพื่อเป็นแอปพลิเคชันสำหรับคนรักแมว (Cat Community & Matchmaking) ให้ผู้ใช้สามารถสร้างโปรไฟล์ให้น้องแมว หาเพื่อนใหม่ จับคู่ (Match) และพูดคุยกับเจ้าของแมวตัวอื่นได้
 
-🌟 ฟีเจอร์หลัก (Key Features)
+ฟีเจอร์หลัก (Key Features)
 
 ระบบสมาชิก (Authentication):** สมัครสมาชิก เข้าสู่ระบบ และกู้คืนรหัสผ่านด้วย Firebase Auth
 โปรไฟล์แมว (Cat Profiles):** สร้าง แก้ไข อัปโหลดรูปภาพ และจัดการข้อมูลของน้องแมว
@@ -11,7 +11,7 @@ Cativerse เป็นแอปพลิเคชันบนสมาร์ท�
 บันทึกสุขภาพ (Cat Health Tracker):** จดบันทึกและติดตามข้อมูลสุขภาพ วัคซีน และประวัติของน้องแมว
 ระบบโลเคชัน (Location-based):** ใช้ `geolocator` เพื่อช่วยค้นหาและแสดงผลน้องแมวในบริเวณใกล้เคียง
 
-🛠️ เทคโนโลยีที่ใช้งาน (Tech Stack)
+เทคโนโลยีที่ใช้งาน (Tech Stack)
 
 Frontend:** Flutter (Dart)
 Backend / Database:** Firebase (Authentication, Cloud Firestore, Firebase Storage)
@@ -21,7 +21,7 @@ UI / UX:**
    `flutter_card_swiper`, `swipable_stack` สำหรับระบบปัดไพ่จับคู่
    `custom_clippers` สำหรับตกแต่ง UI ให้สวยงาม
 
-🚀 การติดตั้งและการรันโปรเจค (Getting Started)
+การติดตั้งและการรันโปรเจค (Getting Started)
 
 สิ่งที่ต้องมีก่อนติดตั้ง (Prerequisites)
    [Flutter SDK](https://docs.flutter.dev/get-started/install) 
